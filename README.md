@@ -1,0 +1,4 @@
+MitLicenseTemplate
+==================
+
+MIT LicenseのTemplate
